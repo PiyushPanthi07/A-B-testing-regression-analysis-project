@@ -82,4 +82,5 @@ Developed a Linear Regression model to quantify the relationship between Ad Clic
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/marketing-campaign-analysis.git](https://github.com/yourusername/marketing-campaign-analysis.git)
+   git clone [[https://github.com/yourusername/marketing-campaign-analysis.git](https://github.com/yourusername/marketing-campaign-analysis.git)
+](https://github.com/PiyushPanthi07/A-B-testing-regression-analysis-project)
