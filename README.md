@@ -141,4 +141,4 @@ jupyter notebook AB_Testing_Marketing_Campaigns.ipynb
 
 **Piyush Panthi**  
 B.Tech AI & Robotics — MITS Gwalior  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/piyushpanthi/)) | [GitHub]([https://github.com/yourusername](https://github.com/PiyushPanthi07))
